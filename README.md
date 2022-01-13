@@ -1,6 +1,6 @@
 # [Work in progress]
 
-# ThoughtAi-Pool-Miner
+# Thought Network Pool Miner
 
 Crypto miner for the [Thought Network](https://github.com/thoughtnetwork).
 
