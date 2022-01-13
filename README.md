@@ -55,7 +55,6 @@ _Coming Soon_
 
 ### Release Version
 
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Verison name | Version Number | Release notes |
+| --- | ----------- | --------------- |
+| Greyback | v1.0.0 | [Link]() _coming soon_ |
