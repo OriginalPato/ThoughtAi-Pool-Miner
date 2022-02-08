@@ -35,7 +35,9 @@ You do not need your thought wallet running to use this miner. All of the jobs w
 
 1. Download the latest miner from the releases tab.
 2. Extract the archive (there will be two files, Host and Instance)
-3. Follow OS specific instructions below
+3. chmod +x Miner
+4. chmod +x instance
+5. Follow OS specific instructions below
 
 ### Linux 
 
