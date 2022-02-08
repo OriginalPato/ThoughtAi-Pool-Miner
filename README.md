@@ -71,4 +71,4 @@ _Coming Soon_
 
 | Verison name | Version Number | Release notes |
 | --- | ----------- | --------------- |
-| Greyback | v1.0.0 | [Link]() _coming soon_ |
+| Greyback | v1.0.0 | [Link](https://github.com/JamesEllisDev/ThoughtAi-Pool-Miner/releases/tag/v1.0.0) |
