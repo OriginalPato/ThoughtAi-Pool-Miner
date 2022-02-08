@@ -17,7 +17,6 @@ Currently only solo mining has been implemented and will be enabled by default.
 
 In development.
 
-
 ## Supported Oprtating Systems
 
 - Linux (Supported)
@@ -28,11 +27,17 @@ In development.
 
 You do not need your thought wallet running to use this miner. All of the jobs will come from the mining pool, you will just need to specify your payout address. 
 
+### Prerequisite 
+
+1. Download the latest miner from the releases tab.
+2. Extract the archive (there will be two files, Host and Instance)
+3. Follow OS specific instructions below
+
 ### Linux 
 
 You will need to have the following packages installed. 
 
-1) Will need to test
+1) Need to test this
 
 To Run the miner from the command line please use the following arguments. You can see a list of arguments by typing --h.
 
