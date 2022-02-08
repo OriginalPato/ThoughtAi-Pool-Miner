@@ -2,8 +2,8 @@
 
 # Thought Network Pool Miner
 
-[thoughtminingpool.com](thoughtminingpool.com) (Website in development)<br>
-[mining.thoughtminingpool.com](mining.thoughtminingpool.com) (THT mining pool)
+[thoughtminingpool.com](www.thoughtminingpool.com) (Website in development)<br>
+mining.thoughtminingpool.com (THT mining pool)
 
 Crypto miner for the [Thought Network](https://github.com/thoughtnetwork).
 
@@ -25,6 +25,10 @@ In development.
 
 ## Running
 
+**DO NOT RUN MULTIPLE INSTANCES**
+
+This miner has been written in such a way that we fully utilize the CPU. Running multiple instances **WILL** cause more harm than good. 
+
 You do not need your thought wallet running to use this miner. All of the jobs will come from the mining pool, you will just need to specify your payout address. 
 
 ### Prerequisite 
@@ -43,12 +47,17 @@ To Run the miner from the command line please use the following arguments. You c
 
 ```text
 usage: Miner
+ -h                         Displays this information
  -x <arg>                   Address to deliver mining rewards to
  -u <arg>                   Mining pool URL
- -P <arg>                   Mining pool port (default: 12617)
- -h                         Displays this information
- -t <arg>                   Number of miner threads to use (default: number of cores -1)
+ -p <arg>    (optional)     Mining pool port (default: 12617)
+ -t <arg>    (optional)     Number of miner threads to use (default: number of cores)
+ -d <arg>    (optional)     Donation percentage
  ```
+
+Example command is below. 
+
+```-x <mineraddress> -u mining.thoughtminingpool.com -p 12617 -t 8 -d 0```
 
 ### Windows 
 
