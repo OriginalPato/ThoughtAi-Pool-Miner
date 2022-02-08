@@ -47,7 +47,6 @@ To Run the miner from the command line please use the following arguments. You c
 
 ```text
 usage: Miner
- -h                         Displays this information
  -x <arg>                   Address to deliver mining rewards to
  -u <arg>                   Mining pool URL
  -p <arg>    (optional)     Mining pool port (default: 12617)
