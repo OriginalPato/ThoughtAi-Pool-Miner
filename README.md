@@ -2,7 +2,7 @@
 
 # Thought Network Pool Miner
 
-[thoughtminingpool.com](thoughtminingpool.com) (Website not up yet)<br>
+[thoughtminingpool.com](thoughtminingpool.com) (Website in development)<br>
 [mining.thoughtminingpool.com](mining.thoughtminingpool.com) (THT mining pool)
 
 Crypto miner for the [Thought Network](https://github.com/thoughtnetwork).
