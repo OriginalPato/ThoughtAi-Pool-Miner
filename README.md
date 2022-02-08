@@ -2,6 +2,9 @@
 
 # Thought Network Pool Miner
 
+[thoughtminingpool.com](thoughtminingpool.com) (Website not up yet)<br>
+[mining.thoughtminingpool.com](mining.thoughtminingpool.com) (THT mining pool)
+
 Crypto miner for the [Thought Network](https://github.com/thoughtnetwork).
 
 Please see the releases page for download link. (coming very soon)
@@ -29,9 +32,7 @@ You do not need your thought wallet running to use this miner. All of the jobs w
 
 You will need to have the following packages installed. 
 
-1) Something
-2) Something
-3) Something else
+1) Will need to test
 
 To Run the miner from the command line please use the following arguments. You can see a list of arguments by typing --h.
 
